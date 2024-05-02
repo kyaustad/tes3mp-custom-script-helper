@@ -6,6 +6,6 @@ This script (ChatGPT made it lol) runs a GUI application to facilitate the addit
 I also recommend pressing the "Completely wipe" button after selecting your CustomScripts.Lua file if you havent added any scripts manually as the comments in that file by default get parsed weird by the app.
 
 
-run the script using visual studio code or by opening the folder containing the python script in terminal and running "python ./tes3mp_script_manager.py"
+run the application by using visual studio code or by opening the folder containing the python script in terminal and running "python ./tes3mp_script_manager.py"
 
 I made it using Python 3.12 so make sure that is installed and added to your PATH if you are on Windows
